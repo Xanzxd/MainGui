@@ -370,25 +370,25 @@ do
         IconShape = "Square",
     })
 
-    DrillTab:Section({ Title = "Drill for Brainrots Scripts", TextSize = 18 })
+    DrillTab:Section({ Title = "Anime Adventure", TextSize = 18 })
 
-    CreateScriptButton(DrillTab, "Drill for Brainrots", "Drill for Brainrots script", "tool", "https://cdn.sourceb.in/bins/mW2lHiXgvj/0", "Anime Adventure")
+    CreateScriptButton(DrillTab, "Anime Adventure", "Anime Adventure script", "tool", "https://cdn.sourceb.in/bins/mW2lHiXgvj/0", "Anime Adventure")
 end
 
 -------------------------------------------------------
--- TAP SIMULATOR
+-- TAP SIMULATOR REBORN
 -------------------------------------------------------
 do
     local DrillTab = ScriptsSection:Tab({
-        Title     = "🖱️ Tap Simulator",
+        Title     = "🖱️ Tap Simulator Reborn",
         Icon      = "gamepad-2",
         IconColor = Color3.fromHex("#F97316"),
         IconShape = "Square",
     })
 
-    DrillTab:Section({ Title = "Drill for Brainrots Scripts", TextSize = 18 })
+    DrillTab:Section({ Title = "Tap Simulator Reborn", TextSize = 18 })
 
-    CreateScriptButton(DrillTab, "Drill for Brainrots", "Drill for Brainrots script", "tool", "https://cdn.sourceb.in/bins/lZmexrhANH/0", "Tap Simulator")
+    CreateScriptButton(DrillTab, "Tap Simulator Reborn", "Tap Simulator Reborn script", "tool", "https://cdn.sourceb.in/bins/lZmexrhANH/0", "Tap Simulator")
 end
 
 -------------------------------------------------------
