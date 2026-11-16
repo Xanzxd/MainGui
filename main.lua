@@ -188,6 +188,7 @@ do
 
     CreateScriptButton(MM2Tab, "Revenge Hub",                 "MM2 hub with ESP, Auto, etc",               "radio",      "https://cdn.sourceb.in/bins/9xuywATe7Q/0",    "MM2")
     CreateScriptButton(MM2Tab, "Axon Hub",                 "MM2 hub with ESP, Auto, etc",               "radio",      "https://cdn.sourceb.in/bins/LnObiNTeLs/0",    "MM2")
+    CreateScriptButton(MM2Tab, "Foxname Hub",                 "MM2 hub with ESP, Auto, etc",               "radio",      "https://cdn.sourceb.in/bins/IMVoZR9Xjz/0",    "MM2")
     
     -- =============================================
     -- MM2 WEAPON TOOLS
