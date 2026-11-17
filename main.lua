@@ -363,6 +363,22 @@ do
 end
 
 -------------------------------------------------------
+-- BLADE BALL
+-------------------------------------------------------
+do
+    local DrillTab = ScriptsSection:Tab({
+        Title     = "🥍 BLADE BALL",
+        Icon      = "gamepad-2",
+        IconColor = Color3.fromHex("#F97316"),
+        IconShape = "Square",
+    })
+
+    DrillTab:Section({ Title = "Blade Ball", TextSize = 18 })
+
+    CreateScriptButton(DrillTab, "Blade Ball", "Blade Ball script", "tool", "https://cdn.sourceb.in/bins/ZUm2K9vlQH/0", "Blade Ball")
+end
+
+-------------------------------------------------------
 -- ANIME ADVENTURE
 -------------------------------------------------------
 do
