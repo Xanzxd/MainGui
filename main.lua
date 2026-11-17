@@ -147,6 +147,7 @@ do
 
     ADMTab:Section({ Title = "Adopt Me Scripts", TextSize = 18 })
 
+    CreateScriptButton(ADMTab, "AdoptMe TbGui",                 "Complete AdoptMe hub",                   "package",   "https://api.luarmor.net/files/v3/loaders/051b9ab9e55bc6acf1ead9319bd606ec.lua",      "ADM")
     CreateScriptButton(ADMTab, "House Cloner",                          "House script",                           "home",      "https://github.com/RevengeHubonTop/houseC/blob/main/lua",          "ADM")
     CreateScriptButton(ADMTab, "Minigames Autofarm",                "Auto complete minigames",                "gamepad-2", "https://raw.githubusercontent.com/RevengeHubonTop/Autofarm/refs/heads/main/Main",      "ADM")
     CreateScriptButton(ADMTab, "House ClonerV2",                    "Clone house builds V2",                  "home",      "https://raw.githubusercontent.com/RevengeHubonTop/HouseClonerV2/refs/heads/main/lua",  "ADM")
