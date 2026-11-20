@@ -391,10 +391,8 @@ do
 
     DrillTab:Section({ Title = "Anime Adventure", TextSize = 18 })
 
-    CreateScriptButton(DrillTab, "Anime Adventure", "Anime Adventure script", "tool", "https://cdn.sourceb.in/bins/WDZqs7rokP/0", "Anime Adventure")
-    CreateScriptButton(DrillTab, "Anime Adventure", "Anime Adventure script", "tool", "https://cdn.sourceb.in/bins/hRWB3uQ6IN/0", "Anime Adventure")
+    CreateScriptButton(DrillTab, "Anime Adventure", "Anime Adventure script", "tool", "https://cdn.sourceb.in/bins/ugU1S0AxVV/0", "Anime Adventure")
 end
-
 -------------------------------------------------------
 -- TAP SIMULATOR REBORN
 -------------------------------------------------------
