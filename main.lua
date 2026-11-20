@@ -375,7 +375,7 @@ do
 
     DrillTab:Section({ Title = "Blade Ball", TextSize = 18 })
 
-    CreateScriptButton(DrillTab, "Blade Ball", "Blade Ball script", "tool", "https://cdn.sourceb.in/bins/c3yNSOIUDe/0", "Blade Ball")
+    CreateScriptButton(DrillTab, "Blade Ball", "Blade Ball script", "tool", "https://cdn.sourceb.in/bins/j8AjbSO6EY/0", "Blade Ball")
 end
 
 -------------------------------------------------------
